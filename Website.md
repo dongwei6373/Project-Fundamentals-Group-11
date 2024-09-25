@@ -1,2 +1,2 @@
 #wix
-created file
+created file.
